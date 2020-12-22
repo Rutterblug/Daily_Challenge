@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Daily Challenge.iml" filepath="$PROJECT_DIR$/.idea/Daily Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenge1_doElementsAddToK/challenge1_doElementsAddToK.iml" filepath="$PROJECT_DIR$/challenge1_doElementsAddToK/challenge1_doElementsAddToK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenge2_productArray/challenge2_productArray.iml" filepath="$PROJECT_DIR$/challenge2_productArray/challenge2_productArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/challenge4_MissingInteger/Monday21stDecember_MissingInteger.iml" filepath="$PROJECT_DIR$/challenge4_MissingInteger/Monday21stDecember_MissingInteger.iml" />
+    </modules>
+  </component>
+</project>
